@@ -1,0 +1,18 @@
+{
+  "urls": [
+    "ch11.mp3",
+    "ch11.ogg",
+    "ch11.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BaseMusicLoop": [
+      1050,
+      26666.666666666668
+    ]
+  }
+}

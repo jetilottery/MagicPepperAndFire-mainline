@@ -1,0 +1,153 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "subheading": "PREZZO: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "description": "Description",
+        "prizeValue": "Prize Value",
+        "descriptionText1": "Chili Win",
+        "descriptionText2": "Vincita Bonus",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prizes Remaining",
+        "oddsPerPlay": "Odds Per Play"
+
+    },
+    "title": "TEMPLATE",
+    "MenuCommand":
+    {
+        "price": "PREZZO",
+        "stake": "Stake",
+        "howToPlay": "COME SI GIOCA",
+        "paytable": "Paytable",
+        "close": "CHIUDI",
+        "audio":
+        {
+            "sound": "Audio",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "PREZZO",
+        "ticketSelect_ticketCost": "PREZZO",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "GIOCA "
+        },
+        "footer_win":
+        {
+            "BUY": "STAI VINCENDO",
+            "TRY": "STAI VINCENDO"
+        },
+
+        "button_buy":
+        {
+            "BUY": "ACQUISTA",
+            "TRY": "GIOCA"
+        },
+        "button_try": "GIOCA",
+        "button_retry": "RETRY",
+        "button_continue": "CONTINUA",
+        "button_moveToMoney": "MOVE TO MONEY",
+        "button_autoPlay_landscape": "SCOPRI\nSUBITO",
+        "button_autoPlay_portrait": "SCOPRI SUBITO",
+        "button_autoPlay_bonus_portrait": "SCOPRI SUBITO",
+        "button_autoPlay_bonus_landscape": "SCOPRI\nSUBITO",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "CONTINUA",
+            "TRY": "CONTINUA"
+        },
+        "button_tryAgain": "CONTINUA",
+        "button_ok": "OK",
+        "button_exit": "EXIT",
+
+        "error_button_exit": "EXIT",
+        "error_title": "ERROR",
+
+        "message_nonWin": "QUESTA VOLTA\nNON HAI VINTO",
+        "message_win":
+        {
+            "BUY": "CONGRATULAZIONI!\nHAI VINTO",
+            "TRY": "CONGRATULAZIONI!\nAVRESTI VINTO"
+        },
+        "howToPlayTitle": "COME SI GIOCA",
+        "howToPlayTitleBonus": "COME SI GIOCA",
+
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Seleziona le fiamme presenti nelle cinque sezioni verticali. Se trovi uno o più volte il simbolo «Peperoncino rosso», vinci l’importo o la somma degli importi associati a ciascun «Peperoncino rosso» trovato.",
+                    "text2": "{redChili}",
+                    "text3": "Se completi una sezione verticale - trovando sotto tutte le fiamme in essa presenti il simbolo «Peperoncino rosso» - vinci la somma degli importi associati a ciascun «Peperoncino rosso» trovato, moltiplicata per il valore del moltiplicatore presente nella sezione completata.",
+                    "text4": ""
+                },
+                "portrait":
+                {
+                    "text1": "Seleziona le fiamme presenti nelle cinque sezioni verticali. Se trovi uno o più volte il simbolo «Peperoncino rosso», vinci l’importo o la somma degli importi associati a ciascun «Peperoncino rosso» trovato.",
+                    "text2": "{redChili}",
+                    "text3": "Se completi una sezione verticale - trovando sotto tutte le fiamme in essa presenti il simbolo «Peperoncino rosso» - vinci la somma degli importi associati a ciascun «Peperoncino rosso» trovato, moltiplicata per il valore del moltiplicatore presente nella sezione completata.",
+                    "text4": ""
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "Se trovi un simbolo «Peperoncino dorato» accedi al Bonus.",
+                    "text2": "{goldChili}",
+                    "text3": ""
+                },
+                "portrait":
+                {
+                    "text1": "Se trovi un simbolo «Peperoncino dorato» accedi al Bonus.",
+                    "text2": "{goldChili}",
+                    "text3": ""
+                }
+            },
+            "page3":
+            {
+                "landscape":
+                {
+                    "text1": "Bonus:",
+                    "text2": "Per scoprire l’importo del bonus seleziona le caselle fino a quando non trovi quattro peperoncini dello stesso colore (rosso o arancione o giallo o verde).\nSotto la casella selezionata puoi trovare un peperoncino colorato, che viene conteggiato nel rispettivo contatore posto a sinistra, oppure un moltiplicatore (1X, 2X, 3X, 4X, 5X) il cui valore si somma al valore del moltiplicatore di partenza (pari a 1X) come indicato nella barra dei moltiplicatori posta in basso.\nQuando hai trovato quattro peperoncini dello stesso colore, vinci l’importo indicato dal rispettivo contatore, moltiplicato per il valore del moltiplicatore riportato nella barra dei moltiplicatori.",
+                    "text3": ""
+                },
+                "portrait":
+                {
+                    "text1": "Bonus:",
+                    "text2": "Per scoprire l’importo del bonus seleziona le caselle fino a quando non trovi quattro peperoncini dello stesso colore (rosso o arancione o giallo o verde).\nSotto la casella selezionata puoi trovare un peperoncino colorato, che viene conteggiato nel rispettivo contatore posto a sinistra, oppure un moltiplicatore (1X, 2X, 3X, 4X, 5X) il cui valore si somma al valore del moltiplicatore di partenza (pari a 1X) come indicato nella barra dei moltiplicatori posta in basso.\nQuando hai trovato quattro peperoncini dello stesso colore, vinci l’importo indicato dal rispettivo contatore, moltiplicato per il valore del moltiplicatore riportato nella barra dei moltiplicatori.",
+                    "text3": ""
+                }
+            }
+        },
+
+        "winUpTo": "",
+        "bonus": "BONUS",
+        "bonusNoWin": "NO BONUS WIN",
+        "bonusWin": "VINCITA BONUS",
+        "totalWin": "CONGRATULAZIONI! HAI VINTO",
+        "infoBarText": "",
+        "bonusInfo": "TROVA IL \"PERONCINO ROSSO\" PER VINCERE UN PREMIO",
+        "bonusInfo2": "TROVA IL \"PEPERONCINO DORATO\" PER ACCEDERE AL GIOCO BONUS",
+        "collectorMeterInfoText": ""
+    }
+}

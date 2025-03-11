@@ -1,0 +1,26 @@
+{
+  "urls": [
+    "ch10.mp3",
+    "ch10.ogg",
+    "ch10.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BonusMultiplierIncrement": [
+      1050,
+      1931.0657596371882
+    ],
+    "BonusTransition": [
+      3100,
+      1441.6326530612243
+    ],
+    "BonusTriggered": [
+      5150,
+      3264.7845804988656
+    ]
+  }
+}

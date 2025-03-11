@@ -1,0 +1,151 @@
+
+MuultiplierInfo.jpg
+size: 406,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Idle
+  rotate: false
+  xy: 2, 2
+  size: 402, 55
+  orig: 402, 55
+  offset: 0, 0
+  index: -1
+
+MuultiplierInfo2.jpg
+size: 306,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Reveal/reveal_00
+  rotate: false
+  xy: 2, 647
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_01
+  rotate: false
+  xy: 2, 604
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_02
+  rotate: false
+  xy: 2, 561
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_03
+  rotate: false
+  xy: 2, 518
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_04
+  rotate: false
+  xy: 2, 475
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_05
+  rotate: false
+  xy: 2, 432
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_06
+  rotate: false
+  xy: 2, 389
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_07
+  rotate: false
+  xy: 2, 346
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_08
+  rotate: false
+  xy: 2, 303
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_09
+  rotate: false
+  xy: 2, 260
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_10
+  rotate: false
+  xy: 2, 217
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_11
+  rotate: false
+  xy: 2, 174
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_12
+  rotate: false
+  xy: 2, 131
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_13
+  rotate: false
+  xy: 2, 88
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_14
+  rotate: false
+  xy: 2, 45
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_15
+  rotate: false
+  xy: 2, 2
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+nonTrans/Reveal/reveal_16
+  rotate: false
+  xy: 2, 2
+  size: 302, 41
+  orig: 302, 41
+  offset: 0, 0
+  index: -1
+
+MuultiplierInfo.png
+size: 554,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/multibar
+  rotate: false
+  xy: 2, 2
+  size: 550, 73
+  orig: 603, 82
+  offset: 27, 9
+  index: -1

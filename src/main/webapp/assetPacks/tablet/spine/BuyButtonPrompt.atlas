@@ -1,0 +1,242 @@
+
+BuyButtonPrompt.jpg
+size: 154,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/overlay
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+
+BuyButtonPrompt2.jpg
+size: 1522,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/prompt/prompt_00
+  rotate: false
+  xy: 2, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_01
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_02
+  rotate: false
+  xy: 154, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_03
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_04
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_05
+  rotate: false
+  xy: 306, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_06
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_07
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_08
+  rotate: false
+  xy: 458, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_09
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_10
+  rotate: false
+  xy: 458, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_11
+  rotate: false
+  xy: 610, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_12
+  rotate: false
+  xy: 458, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_13
+  rotate: false
+  xy: 610, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_14
+  rotate: false
+  xy: 762, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_15
+  rotate: false
+  xy: 610, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_16
+  rotate: false
+  xy: 762, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_17
+  rotate: false
+  xy: 914, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_18
+  rotate: false
+  xy: 762, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_19
+  rotate: false
+  xy: 914, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_20
+  rotate: false
+  xy: 1066, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_21
+  rotate: false
+  xy: 914, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_22
+  rotate: false
+  xy: 1066, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_23
+  rotate: false
+  xy: 1218, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_24
+  rotate: false
+  xy: 1066, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_25
+  rotate: false
+  xy: 1218, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_26
+  rotate: false
+  xy: 1370, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_27
+  rotate: false
+  xy: 1218, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_28
+  rotate: false
+  xy: 1370, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nonTrans/prompt/prompt_29
+  rotate: false
+  xy: 1370, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+
+BuyButtonPrompt.png
+size: 225,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/buyButtonLandEnabled
+  rotate: false
+  xy: 2, 2
+  size: 221, 222
+  orig: 225, 225
+  offset: 2, 1
+  index: -1

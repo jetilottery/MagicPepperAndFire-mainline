@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "ch7.mp3",
+    "ch7.ogg",
+    "ch7.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BaseSymbolRevealMultiplier": [
+      1050,
+      1916.6666666666667
+    ],
+    "BonusMeterReveal1": [
+      3100,
+      1749.3877551020414
+    ]
+  }
+}

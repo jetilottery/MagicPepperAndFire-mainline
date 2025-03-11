@@ -1,0 +1,773 @@
+
+WinPlaque.jpg
+size: 2018,764
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/intro/intro_00
+  rotate: false
+  xy: 2, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_01
+  rotate: false
+  xy: 2, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_02
+  rotate: false
+  xy: 254, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_03
+  rotate: false
+  xy: 2, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_04
+  rotate: false
+  xy: 254, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_05
+  rotate: false
+  xy: 506, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_06
+  rotate: false
+  xy: 2, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_07
+  rotate: false
+  xy: 254, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_08
+  rotate: false
+  xy: 506, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_09
+  rotate: false
+  xy: 758, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_10
+  rotate: false
+  xy: 2, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_11
+  rotate: false
+  xy: 254, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_12
+  rotate: false
+  xy: 506, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_13
+  rotate: false
+  xy: 758, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_14
+  rotate: false
+  xy: 1010, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_15
+  rotate: false
+  xy: 2, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_16
+  rotate: false
+  xy: 254, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_17
+  rotate: false
+  xy: 506, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_18
+  rotate: false
+  xy: 758, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_19
+  rotate: false
+  xy: 1010, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_20
+  rotate: false
+  xy: 1262, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_21
+  rotate: false
+  xy: 254, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_22
+  rotate: false
+  xy: 506, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_23
+  rotate: false
+  xy: 758, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_24
+  rotate: false
+  xy: 1010, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_25
+  rotate: false
+  xy: 1262, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_26
+  rotate: false
+  xy: 1514, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_27
+  rotate: false
+  xy: 506, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_28
+  rotate: false
+  xy: 758, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_29
+  rotate: false
+  xy: 1010, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_30
+  rotate: false
+  xy: 1262, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_31
+  rotate: false
+  xy: 1514, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_32
+  rotate: false
+  xy: 1766, 637
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_33
+  rotate: false
+  xy: 758, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_34
+  rotate: false
+  xy: 1010, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_35
+  rotate: false
+  xy: 1262, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_36
+  rotate: false
+  xy: 1514, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_37
+  rotate: false
+  xy: 1766, 510
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_38
+  rotate: false
+  xy: 1010, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_39
+  rotate: false
+  xy: 1262, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_40
+  rotate: false
+  xy: 1514, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_41
+  rotate: false
+  xy: 1766, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_42
+  rotate: false
+  xy: 1262, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_43
+  rotate: false
+  xy: 1514, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_44
+  rotate: false
+  xy: 1766, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/intro/intro_45
+  rotate: false
+  xy: 1514, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+
+WinPlaque2.jpg
+size: 1893,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/loop/loop_00
+  rotate: false
+  xy: 2, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_01
+  rotate: false
+  xy: 2, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_02
+  rotate: false
+  xy: 254, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_03
+  rotate: false
+  xy: 2, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_04
+  rotate: false
+  xy: 254, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_05
+  rotate: false
+  xy: 506, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_06
+  rotate: false
+  xy: 2, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_07
+  rotate: false
+  xy: 254, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_08
+  rotate: false
+  xy: 506, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_09
+  rotate: false
+  xy: 758, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_10
+  rotate: false
+  xy: 254, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_11
+  rotate: false
+  xy: 506, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_12
+  rotate: false
+  xy: 758, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_13
+  rotate: false
+  xy: 1010, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_14
+  rotate: false
+  xy: 506, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_15
+  rotate: false
+  xy: 758, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_16
+  rotate: false
+  xy: 1010, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_17
+  rotate: false
+  xy: 1262, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_18
+  rotate: false
+  xy: 758, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_19
+  rotate: false
+  xy: 1010, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_20
+  rotate: false
+  xy: 1262, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_21
+  rotate: false
+  xy: 1514, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_22
+  rotate: false
+  xy: 1010, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_23
+  rotate: false
+  xy: 1262, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_24
+  rotate: false
+  xy: 1514, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_25
+  rotate: true
+  xy: 1766, 258
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_26
+  rotate: false
+  xy: 1262, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_27
+  rotate: false
+  xy: 1514, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_28
+  rotate: false
+  xy: 1514, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/loop/loop_29
+  rotate: true
+  xy: 1766, 6
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+
+WinPlaque3.jpg
+size: 1893,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/outro/outro_00
+  rotate: false
+  xy: 2, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_01
+  rotate: false
+  xy: 2, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_02
+  rotate: false
+  xy: 254, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_03
+  rotate: false
+  xy: 2, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_04
+  rotate: false
+  xy: 254, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_05
+  rotate: false
+  xy: 506, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_06
+  rotate: false
+  xy: 2, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_07
+  rotate: false
+  xy: 254, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_08
+  rotate: false
+  xy: 506, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_09
+  rotate: false
+  xy: 758, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_10
+  rotate: false
+  xy: 254, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_11
+  rotate: false
+  xy: 506, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_12
+  rotate: false
+  xy: 758, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_13
+  rotate: false
+  xy: 1010, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_14
+  rotate: false
+  xy: 506, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_15
+  rotate: false
+  xy: 758, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_16
+  rotate: false
+  xy: 1010, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_17
+  rotate: false
+  xy: 1262, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_18
+  rotate: false
+  xy: 758, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_19
+  rotate: false
+  xy: 1010, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_20
+  rotate: false
+  xy: 1262, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_21
+  rotate: false
+  xy: 1514, 383
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_22
+  rotate: false
+  xy: 1010, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_23
+  rotate: false
+  xy: 1262, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_24
+  rotate: false
+  xy: 1514, 256
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_25
+  rotate: true
+  xy: 1766, 258
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_26
+  rotate: false
+  xy: 1262, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_27
+  rotate: false
+  xy: 1514, 129
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_28
+  rotate: false
+  xy: 1514, 2
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+nonTrans/outro/outro_29
+  rotate: true
+  xy: 1766, 6
+  size: 250, 125
+  orig: 250, 125
+  offset: 0, 0
+  index: -1
+
+WinPlaque.png
+size: 594,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/landscape_endOfGameMessageWinBackground
+  rotate: false
+  xy: 2, 2
+  size: 590, 238
+  orig: 590, 238
+  offset: 0, 0
+  index: -1

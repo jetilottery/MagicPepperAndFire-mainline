@@ -1,0 +1,534 @@
+
+bonusPepperMeterIcon.jpg
+size: 971,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Green/Green_00
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_01
+  rotate: false
+  xy: 59, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_02
+  rotate: false
+  xy: 116, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_03
+  rotate: false
+  xy: 173, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_04
+  rotate: false
+  xy: 230, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_05
+  rotate: false
+  xy: 287, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_06
+  rotate: false
+  xy: 344, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_07
+  rotate: false
+  xy: 401, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_08
+  rotate: false
+  xy: 458, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_09
+  rotate: false
+  xy: 515, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_10
+  rotate: false
+  xy: 572, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_11
+  rotate: false
+  xy: 629, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_12
+  rotate: false
+  xy: 686, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_13
+  rotate: false
+  xy: 743, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_14
+  rotate: false
+  xy: 800, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_15
+  rotate: false
+  xy: 857, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Green/Green_16
+  rotate: false
+  xy: 914, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+
+bonusPepperMeterIcon2.jpg
+size: 971,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Orange/Orange_00
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_01
+  rotate: false
+  xy: 59, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_02
+  rotate: false
+  xy: 116, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_03
+  rotate: false
+  xy: 173, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_04
+  rotate: false
+  xy: 230, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_05
+  rotate: false
+  xy: 287, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_06
+  rotate: false
+  xy: 344, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_07
+  rotate: false
+  xy: 401, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_08
+  rotate: false
+  xy: 458, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_09
+  rotate: false
+  xy: 515, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_10
+  rotate: false
+  xy: 572, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_11
+  rotate: false
+  xy: 629, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_12
+  rotate: false
+  xy: 686, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_13
+  rotate: false
+  xy: 743, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_14
+  rotate: false
+  xy: 800, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_15
+  rotate: false
+  xy: 857, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Orange/Orange_16
+  rotate: false
+  xy: 914, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+
+bonusPepperMeterIcon3.jpg
+size: 971,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Red/Red_00
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_01
+  rotate: false
+  xy: 59, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_02
+  rotate: false
+  xy: 116, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_03
+  rotate: false
+  xy: 173, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_04
+  rotate: false
+  xy: 230, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_05
+  rotate: false
+  xy: 287, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_06
+  rotate: false
+  xy: 344, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_07
+  rotate: false
+  xy: 401, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_08
+  rotate: false
+  xy: 458, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_09
+  rotate: false
+  xy: 515, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_10
+  rotate: false
+  xy: 572, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_11
+  rotate: false
+  xy: 629, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_12
+  rotate: false
+  xy: 686, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_13
+  rotate: false
+  xy: 743, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_14
+  rotate: false
+  xy: 800, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_15
+  rotate: false
+  xy: 857, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Red/Red_16
+  rotate: false
+  xy: 914, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+
+bonusPepperMeterIcon4.jpg
+size: 971,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/Yellow/Yellow_00
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_01
+  rotate: false
+  xy: 59, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_02
+  rotate: false
+  xy: 116, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_03
+  rotate: false
+  xy: 173, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_04
+  rotate: false
+  xy: 230, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_05
+  rotate: false
+  xy: 287, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_06
+  rotate: false
+  xy: 344, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_07
+  rotate: false
+  xy: 401, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_08
+  rotate: false
+  xy: 458, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_09
+  rotate: false
+  xy: 515, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_10
+  rotate: false
+  xy: 572, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_11
+  rotate: false
+  xy: 629, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_12
+  rotate: false
+  xy: 686, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_13
+  rotate: false
+  xy: 743, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_14
+  rotate: false
+  xy: 800, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_15
+  rotate: false
+  xy: 857, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+nonTrans/Yellow/Yellow_16
+  rotate: false
+  xy: 914, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+
+bonusPepperMeterIcon5.jpg
+size: 226,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/bonusMeterGreenSegmentOn
+  rotate: false
+  xy: 2, 2
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+trans/bonusMeterOrangeSegmentOn
+  rotate: false
+  xy: 58, 2
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+trans/bonusMeterRedSegmentOn
+  rotate: false
+  xy: 114, 2
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+trans/bonusMeterYellowSegmentOn
+  rotate: false
+  xy: 170, 2
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
